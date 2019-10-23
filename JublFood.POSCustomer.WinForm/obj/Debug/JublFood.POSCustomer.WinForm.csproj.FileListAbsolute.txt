@@ -1,0 +1,12 @@
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\bin\Debug\JublFood.POSCustomer.WinForm.exe.config
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\bin\Debug\JublFood.POSCustomer.WinForm.exe
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\bin\Debug\JublFood.POSCustomer.WinForm.pdb
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.csprojAssemblyReference.cache
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.Form1.resources
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.Properties.Resources.resources
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.csproj.GenerateResource.cache
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.csproj.CopyComplete
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.exe
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\obj\Debug\JublFood.POSCustomer.WinForm.pdb
+C:\Users\ba_sdit1\source\repos\JublFood.POSCustomer.WinForm\JublFood.POSCustomer.WinForm\bin\Debug\Newtonsoft.Json.xml
