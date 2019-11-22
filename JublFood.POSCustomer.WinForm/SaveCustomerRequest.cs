@@ -48,6 +48,12 @@ namespace JublFood.POSCustomer.WinForm
         public DateTime date_of_birth { get; set; }
         public DateTime anniversary_date { get; set; }
 
-        //public string Customer_GSTIN { get; set; }
+        public string Driver_Comments { get; set; }
+
+        public string Comments { get; set; }
+
+        public string Manager_Notes { get; set; }
+
+        public string GSTIN { get; set; }
     }
 }

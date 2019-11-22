@@ -75,7 +75,8 @@ namespace JublFood.POSCustomer.WinForm
                 txtAddress.Text = apiResponse.result.CustomerDetail.Address_Line_2 + apiResponse.result.CustomerDetail.Address_Line_3 + apiResponse.result.CustomerDetail.Address_Line_4;
                 txtCity.Text = apiResponse.result.CustomerDetail.Address_Line_2;
                 txtPostalCode.Text = apiResponse.result.CustomerDetail.Postal_Code;
-                txtGSTIN.Text = apiResponse.result.CustomerDetail.Customer_GSTIN;
+                txtGSTIN.Text = apiResponse.result.CustomerDetail.GSTIN;
+                //tbNotes.Text = apiResponse.result.CustomerDetail.Comments;
 
                 Setting.CustomerCode = apiResponse.result.CustomerDetail.Customer_Code;
 
@@ -146,6 +147,11 @@ namespace JublFood.POSCustomer.WinForm
                 saveCustomerRequestModel.Tax_ID2 = "";
                 saveCustomerRequestModel.Tax_ID3 = "";
                 saveCustomerRequestModel.Tax_ID4 = "";
+                saveCustomerRequestModel.GSTIN = txtGSTIN.Text;
+
+                saveCustomerRequestModel.Driver_Comments = "";
+                saveCustomerRequestModel.Comments = "";
+                saveCustomerRequestModel.Manager_Notes = "";
 
                 saveCustomerRequestModel.Customer_Code = Setting.CustomerCode;
 

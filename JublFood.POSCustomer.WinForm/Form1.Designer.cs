@@ -368,9 +368,9 @@
             this.panelOrder.Controls.Add(this.btnBeverages);
             this.panelOrder.Controls.Add(this.btnPizza);
             this.panelOrder.Controls.Add(this.btnMISC);
-            this.panelOrder.Location = new System.Drawing.Point(366, 69);
+            this.panelOrder.Location = new System.Drawing.Point(366, 65);
             this.panelOrder.Name = "panelOrder";
-            this.panelOrder.Size = new System.Drawing.Size(473, 368);
+            this.panelOrder.Size = new System.Drawing.Size(473, 372);
             this.panelOrder.TabIndex = 31;
             this.panelOrder.Visible = false;
             // 
